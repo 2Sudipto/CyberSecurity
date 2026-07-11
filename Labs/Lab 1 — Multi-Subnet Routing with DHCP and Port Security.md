@@ -9,7 +9,8 @@ Build two separate LANs — a "Home" network and an "Office" network — connect
 This lab builds directly on Lab 1 (single-subnet static addressing) by adding: a second subnet, router-based DHCP, and switch port security.
 
 ## Topology
-![[Pasted image 20260710183726.png]]
+<img width="1137" height="810" alt="image" src="https://github.com/user-attachments/assets/5a5eea97-17c4-47fe-8a70-aaf381f17ba8" />
+
 
 |Device|Model|Network|Role|
 |---|---|---|---|
