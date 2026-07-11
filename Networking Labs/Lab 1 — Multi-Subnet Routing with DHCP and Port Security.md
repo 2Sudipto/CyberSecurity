@@ -97,11 +97,10 @@ Switch#copy run start
 <img width="647" height="788" alt="image" src="https://github.com/user-attachments/assets/9aff0f2c-035b-4f2b-af7e-444be7396567" />
 
 **Home network connectivity (static IPs) — PC0 pinging PC1 and PC2, 0% loss:** 
-<img width="488" height="218" alt="image" src="https://github.com/user-attachments/assets/2ff02477-ff57-44ae-a8b2-a075dc51c81e" />
-
-**DHCP pool and exclusions configured on the router:** 
 <img width="444" height="541" alt="image" src="https://github.com/user-attachments/assets/1c4c1e45-2dfd-410f-b75e-80a8781fbbd8" />
 
+**DHCP pool and exclusions configured on the router:** 
+<img width="488" height="218" alt="image" src="https://github.com/user-attachments/assets/2ff02477-ff57-44ae-a8b2-a075dc51c81e" />
 
 **Office PC successfully leased an address from the router's DHCP pool:** 
 <img width="1129" height="222" alt="image" src="https://github.com/user-attachments/assets/5d8072ed-7b6f-491f-ae0a-51144327433f" />
