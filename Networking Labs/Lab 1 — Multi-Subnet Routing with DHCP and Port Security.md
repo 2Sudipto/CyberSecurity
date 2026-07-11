@@ -9,7 +9,8 @@ Build two separate LANs — a "Home" network and an "Office" network — connect
 This lab builds directly on Lab 1 (single-subnet static addressing) by adding: a second subnet, router-based DHCP, and switch port security.
 
 ## Topology
-![[Pasted image 20260710183726.png]]
+<img width="1137" height="810" alt="image" src="https://github.com/user-attachments/assets/aa049880-151e-4cca-beb7-c384c97a2667" />
+
 
 |Device|Model|Network|Role|
 |---|---|---|---|
@@ -93,15 +94,20 @@ Switch#copy run start
 ## Verification
 
 **Router interfaces up and addressed correctly:
-![[Pasted image 20260710184018.png]]
+<img width="647" height="788" alt="image" src="https://github.com/user-attachments/assets/9aff0f2c-035b-4f2b-af7e-444be7396567" />
+
 **Home network connectivity (static IPs) — PC0 pinging PC1 and PC2, 0% loss:** 
-![[Pasted image 20260710185038.png]]
+<img width="647" height="788" alt="image" src="https://github.com/user-attachments/assets/aff59082-3f17-402a-977a-9b700224fcd6" />
+
 **DHCP pool and exclusions configured on the router:** 
-![[Pasted image 20260710185203.png]]
+<img width="647" height="788" alt="image" src="https://github.com/user-attachments/assets/fd78026b-84e2-4b2d-970c-785121aa99be" />
+
 **Office PC successfully leased an address from the router's DHCP pool:** 
-![[Pasted image 20260710190630.png]]
+<img width="647" height="788" alt="image" src="https://github.com/user-attachments/assets/c7642521-2c55-42ae-88a0-2602af09ea67" />
+
 **Port security applied and saved on the switch:** 
-![[Pasted image 20260710190656.png]]
+<img width="444" height="541" alt="image" src="https://github.com/user-attachments/assets/2a0823b2-e1f6-4641-abbd-c906cf378862" />
+
 ## Files in This Folder
 
 | File                           | Description                                  |
