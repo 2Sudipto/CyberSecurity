@@ -97,16 +97,19 @@ Switch#copy run start
 <img width="647" height="788" alt="image" src="https://github.com/user-attachments/assets/9aff0f2c-035b-4f2b-af7e-444be7396567" />
 
 **Home network connectivity (static IPs) — PC0 pinging PC1 and PC2, 0% loss:** 
-<img width="647" height="788" alt="image" src="https://github.com/user-attachments/assets/aff59082-3f17-402a-977a-9b700224fcd6" />
+<img width="488" height="218" alt="image" src="https://github.com/user-attachments/assets/2ff02477-ff57-44ae-a8b2-a075dc51c81e" />
 
 **DHCP pool and exclusions configured on the router:** 
-<img width="647" height="788" alt="image" src="https://github.com/user-attachments/assets/fd78026b-84e2-4b2d-970c-785121aa99be" />
+<img width="444" height="541" alt="image" src="https://github.com/user-attachments/assets/1c4c1e45-2dfd-410f-b75e-80a8781fbbd8" />
+
 
 **Office PC successfully leased an address from the router's DHCP pool:** 
-<img width="647" height="788" alt="image" src="https://github.com/user-attachments/assets/c7642521-2c55-42ae-88a0-2602af09ea67" />
+<img width="1129" height="222" alt="image" src="https://github.com/user-attachments/assets/5d8072ed-7b6f-491f-ae0a-51144327433f" />
+
 
 **Port security applied and saved on the switch:** 
-<img width="444" height="541" alt="image" src="https://github.com/user-attachments/assets/2a0823b2-e1f6-4641-abbd-c906cf378862" />
+<img width="488" height="218" alt="image" src="https://github.com/user-attachments/assets/8f6b6104-354b-4f50-b5ed-551c6f452ff2" />
+
 
 ## Files in This Folder
 
